@@ -116,6 +116,7 @@ compile.keymap: skully -> None
 |-----|---------------|-------------|
 | compile.keyboard | None | The keyboard path (Example: `clueboard/66/rev4`) |
 | compile.keymap | None | The keymap name (Example: `default`) |
+| compile.parallel | 1 | The number of parallel make jobs (Example: `16`) |
 | hello.name | None | The name to greet when run. |
 | new_keyboard.keyboard | None | The keyboard path (Example: `clueboard/66/rev4`) |
 | new_keyboard.keymap | None | The keymap name (Example: `default`) |
